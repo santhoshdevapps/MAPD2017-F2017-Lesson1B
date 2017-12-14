@@ -60,7 +60,7 @@ class ContentCell: UICollectionViewCell {
     }
     
     class func defaultFont() -> UIFont {
-        return UIFont.preferredFont(forTextStyle(UIFontTextStyle.body)
+        return UIFont.preferredFont(forTextStyle: UIFontTextStyle.body)
     }
-    `
+    
 }
